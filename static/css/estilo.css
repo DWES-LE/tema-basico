@@ -3,6 +3,9 @@
     width: 80%;
 }
 
+.titulo {
+    color: green;
+}
 nav,
 footer {
     background-color: #00f;
